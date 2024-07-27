@@ -1,0 +1,47 @@
+
+#num1,#num2{
+    background-color: aqua;
+    width: 30%;height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    border-radius:12px;
+    margin-left:2% ;
+}
+#num1{
+margin-top: 5%;
+
+}
+#num1:hover,#num2:hover{ width: 230px;
+height: 55px;background-color: cornsilk
+}
+div{
+height: 320px;background-color: antiquewhite;
+border-width: 5%;border-style: double
+}
+
+#res{
+background-color:;
+    width: 40%;height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    border-width: 5px;
+    border-radius:12px; margin-left:10% ;margin-top: 5%;
+    
+}
+#add,#sub,#mul,#div{
+width: 10%;height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;border-style: double;
+    border-width: 2px;border-color:black;
+    border-radius:12px; margin-left:2% ;
+
+}
+#add:hover,#sub:hover,#mul:hover,#div:hover{
+    width: 90px;
+    height: 40px;
+    background-color:green;
+}
+*{
+margin-left: 11%;
+margin-right: 11%;
+}
